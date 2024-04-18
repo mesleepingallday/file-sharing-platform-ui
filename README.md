@@ -1,5 +1,5 @@
 # React + Vite
-
+# Designed based on: https://github.com/AsmrProg-YT/File-Sharing-Platform-UI/blob/master/style.css  , Thank you to AsmrProg-YT for the resource material."
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
